@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Documentos\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\ConsoleApplication1\\TuNombre4rtoEstrucuturaDeDatosClases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C02B32-62C4-4BE4-B58F-06965242D6F7}|TuNombre4rtoEstrucuturaDeDatosClases.vcxproj|I:\\Documentos\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\ConsoleApplication1\\TuNombre4rtoEstrucuturaDeDatosClases\\TuNombre4rtoEstrucuturaDeDatosClases.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8C02B32-62C4-4BE4-B58F-06965242D6F7}|TuNombre4rtoEstrucuturaDeDatosClases.vcxproj|solutionrelative:TuNombre4rtoEstrucuturaDeDatosClases.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TuNombre4rtoEstrucuturaDeDatosClases.cpp",
+              "DocumentMoniker": "I:\\Documentos\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\ConsoleApplication1\\TuNombre4rtoEstrucuturaDeDatosClases\\TuNombre4rtoEstrucuturaDeDatosClases.cpp",
+              "RelativeDocumentMoniker": "TuNombre4rtoEstrucuturaDeDatosClases.cpp",
+              "ToolTip": "I:\\Documentos\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\ConsoleApplication1\\TuNombre4rtoEstrucuturaDeDatosClases\\TuNombre4rtoEstrucuturaDeDatosClases.cpp",
+              "RelativeToolTip": "TuNombre4rtoEstrucuturaDeDatosClases.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-10T00:35:19.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
