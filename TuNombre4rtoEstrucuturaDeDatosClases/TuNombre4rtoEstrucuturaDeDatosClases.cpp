@@ -1,8 +1,10 @@
-// TuNombre4rtoEstrucuturaDeDatosClases.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
+
 // INTENTARE METER TODO UN CURSO DE SEMESTRE EN ESTE SCRIPT, A VER QUE TAL....
 
 #include <iostream>
 
+//Tarea CajeroATM
+/*
 
 #include <cstdlib>  
 // rand(), aquel que genera una semilla de numeros aleatoriosdel 0 al 32k y pico y siempre que cuando se ejecuta la 1era vez sera tal numero fijo siempre
@@ -30,25 +32,27 @@ void IngresarDinero(int* saldo) {
 			cout << "tu total de dinero es " << *saldo << "¿ingresaras mas ? o quieres que te pique carnal :V \n";
 		}
 		else {
-			cin >> "el billete que ingresaste es pirata como la vez carnal >:V, intentelo de nuevo campeon(a) \n";
+			cout << "el billete que ingresaste es pirata como la vez carnal >:V, intentelo de nuevo campeon(a) \n";
 		}
 	}
 }
 
 void RetirarDinero(int* saldo) {
+	srand(time(0)); // Inicializa números aleatorios
+	*saldo = rand() % 0 + 10000;  // Cantidad aleatoria 0 a 10000
 	cout << "Tienes $" << *saldo << "\n en tu cuenta de ahorro \n ";
 	cout << "¿Cuanto le quieres quitar al banco muchachon?\n";
 
 	int cantidad;
-	cin >> *cantidad >>
+	cin >> cantidad;
 
-		if (cantidad > *saldo) {
-			cout << "como que te falta algo, ¿ no, carnal?\n";
-		}
+	if (cantidad > *saldo) {
+		cout << "como que te falta algo, ¿ no, carnal?\n";
+	}
 
 	*saldo -= cantidad;
 	// desde aqui recibi ayuda 
-	int billetes[] = { 20,50,100,200,500,1000 }
+	int billetes[] = { 20,50,100,200,500,1000 };
 	int* ptrBilletes = billetes;
 	cout << "tomele, y vayase, no te quiero volver a ver por aqui O-x ¡hmmmp! \n" << "$:" << *billetes << "\n";
 
@@ -66,10 +70,11 @@ void RetirarDinero(int* saldo) {
 	cout << "El nuevo saldo es $" << *saldo << "\n";
 	// hasta aqui deje de recibir ayuda
 }
-
+*/
 int main()
 {
-	string nombre;
+	//tarea CajeroATM
+	/*string nombre;
 	int saldo = 0;
 	int* ptrSaldo = &saldo;
 
@@ -101,7 +106,15 @@ int main()
 	} while (opcion != 3);
 
 	return 0;
+	*/
 }
+
+
+
+
+
+
+
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
 // Depurar programa: F5 o menú Depurar > Iniciar depuración
