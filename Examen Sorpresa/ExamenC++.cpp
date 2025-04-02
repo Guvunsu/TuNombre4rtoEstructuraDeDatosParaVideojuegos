@@ -9,45 +9,81 @@ using std::string;
 using std::cin;
 using std::cout;
 
-struct Alumnos {
-	string nombre;
-	int edad;
-	float promedio;
-};
+// 1era clase
+//struct Alumnos {
+//	string nombre;
+//	int edad;
+//	float promedio;
+//};
+//1era clase termina
 
 
 
 int main()
 {
+	/*
+	//// 1era clase 
+	//int x;
+	//Alumnos alum1, alum2, alum3;
+
+	///*alum1.nombre = "Juan";
+	//alum1.edad = 15;
+	//alum1.promedio = 8.5f;
+
+
+	////string estudiantes[3] = { "Juan","Ana","Pedro" };
+	//Alumnos estudiantes[3] = { alum1, alum2, alum3 };
+	////Alumnos edades[3] = { " 20,19,21" };
+	////Alumnos promedio[3] = { "8.5f,9.2f,7.8f" };
+	//float calificacion = 0;
+	//for (int i = 0; i < 3; i++) {
+	//	std::cout << "Ingrese el nombre del estudiante \n" << ":";
+	//	cin >> estudiantes[i].nombre;
+	//	cout << "ingrese la edad del morro \n" << ":";
+	//	cin >> estudiantes[i].edad;
+	//	cout << "ingrese promedios \n" << ":";
+	//	cin >> estudiantes[i].promedio;
+	//	calificacion += estudiantes[i].promedio;
+	//	//float* promedio = &calificacion;
+	//}
+
+	//int promedioDeTodosLosAlumnos = calificacion / 3;
+
+
+	//litecode
+	//	//termina 1 primera clase
+	*/
+
+	///*
+	//2nda clase 
 	int x;
-	Alumnos alum1, alum2, alum3;
+	int y;
+	int* p_x;
+	int* p_y;
 
-	/*alum1.nombre = "Juan";
-	alum1.edad = 15;
-	alum1.promedio = 8.5f;*/
+	p_x = &x;
+	p_y = &y;
 
+	cout << "Escoge un numero x" << endl;
+	cin >> x;
+	cout << "Escoge un numero y" << endl;
+	cin >> y;
 
-	//string estudiantes[3] = { "Juan","Ana","Pedro" };
-	Alumnos estudiantes[3] = { alum1, alum2, alum3 };
-	//Alumnos edades[3] = { " 20,19,21" };
-	//Alumnos promedio[3] = { "8.5f,9.2f,7.8f" };
-	float calificacion = 0;
-	for (int i = 0; i < 3; i++) {
-		std::cout << "Ingrese el nombre del estudiante \n" << ":";
-		cin >> estudiantes[i].nombre;
-		cout << "ingrese la edad del morro \n" << ":";
-		cin >> estudiantes[i].edad;
-		cout << "ingrese promedios \n" << ":";
-		cin >> estudiantes[i].promedio;
-		calificacion += estudiantes[i].promedio;
-		//float* promedio = &calificacion;
-	}
-
-	int promedioDeTodosLosAlumnos = calificacion / 3;
+	cout << "Tu numero x es" << x << "Su direccion es:" << &x << endl;
+	cout << "Tu numero y es" << y << "su direccion es:" << &y << endl;
+	cout << "ahora se cambiaran" << endl;
+	int temp = x;
+	*p_x = y;
+	*p_y = temp;
+	cout << "Tu numero x es" << x << "Su direccion es:" << &x << endl;
+	cout << "Tu numero x es" << y << "Su direccion es:" << &y << endl;
+	//termina 2nda clase
+	//*/
 
 
-	litecode
 }
+
+
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
 // Depurar programa: F5 o menú Depurar > Iniciar depuración
