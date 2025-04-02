@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\MAP Repaso c\u002B\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F21D28E6-0A55-4D35-998B-921486402480}|MAP Repaso c\u002B\u002B\\MAP Repaso c\u002B\u002B.vcxproj|I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\MAP Repaso c\u002B\u002B\\MAP Repaso c\u002B\u002B\\MAP Repaso c\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F21D28E6-0A55-4D35-998B-921486402480}|MAP Repaso c\u002B\u002B\\MAP Repaso c\u002B\u002B.vcxproj|solutionrelative:MAP Repaso c\u002B\u002B\\MAP Repaso c\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MAP Repaso c\u002B\u002B.cpp",
+              "DocumentMoniker": "I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\MAP Repaso c\u002B\u002B\\MAP Repaso c\u002B\u002B\\MAP Repaso c\u002B\u002B.cpp",
+              "RelativeDocumentMoniker": "MAP Repaso c\u002B\u002B\\MAP Repaso c\u002B\u002B.cpp",
+              "ToolTip": "I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\MAP Repaso c\u002B\u002B\\MAP Repaso c\u002B\u002B\\MAP Repaso c\u002B\u002B.cpp",
+              "RelativeToolTip": "MAP Repaso c\u002B\u002B\\MAP Repaso c\u002B\u002B.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T04:38:56.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
