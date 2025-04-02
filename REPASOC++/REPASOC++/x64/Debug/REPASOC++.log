@@ -1,0 +1,5 @@
+﻿  REPASOC++.cpp
+REPASOC++.obj : error LNK2019: símbolo externo "void __cdecl SumaVectores(void)" (?SumaVectores@@YAXXZ) sin resolver al que se hace referencia en la función "void __cdecl SumaVectores(int)" (?SumaVectores@@YAXH@Z)
+    Sugerencia sobre los símbolos definidos que podrían coincidir:
+      "void __cdecl SumaVectores(int)" (?SumaVectores@@YAXH@Z)
+I:\REPASOC++\x64\Debug\REPASOC++.exe : fatal error LNK1120: 1 externos sin resolver
