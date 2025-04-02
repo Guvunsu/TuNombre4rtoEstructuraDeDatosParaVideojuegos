@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\MAP Clase Marzo 19 2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE3B203-116F-47BE-87FA-57C70FACD7E7}|MAP Clase Marzo 19 2025\\MAP Clase Marzo 19 2025.vcxproj|I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\MAP Clase Marzo 19 2025\\MAP Clase Marzo 19 2025\\MAP Clase Marzo 19 2025.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFE3B203-116F-47BE-87FA-57C70FACD7E7}|MAP Clase Marzo 19 2025\\MAP Clase Marzo 19 2025.vcxproj|solutionrelative:MAP Clase Marzo 19 2025\\MAP Clase Marzo 19 2025.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MAP Clase Marzo 19 2025.cpp",
+              "DocumentMoniker": "I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\MAP Clase Marzo 19 2025\\MAP Clase Marzo 19 2025\\MAP Clase Marzo 19 2025.cpp",
+              "RelativeDocumentMoniker": "MAP Clase Marzo 19 2025\\MAP Clase Marzo 19 2025.cpp",
+              "ToolTip": "I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\MAP Clase Marzo 19 2025\\MAP Clase Marzo 19 2025\\MAP Clase Marzo 19 2025.cpp",
+              "RelativeToolTip": "MAP Clase Marzo 19 2025\\MAP Clase Marzo 19 2025.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T04:55:39.451Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
