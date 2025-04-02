@@ -1,0 +1,4 @@
+﻿  Palindromo.cpp
+I:\Documentos\Escuela\Programacion\GitHub\TuNombre4rtoEstructuraDeDatosParaVideojuegos\Palindromo\Palindromo\Palindromo.cpp(24,17): warning C4834: Descartar el valor de retorno de la función con el atributo [[nodiscard]]
+I:\Documentos\Escuela\Programacion\GitHub\TuNombre4rtoEstructuraDeDatosParaVideojuegos\Palindromo\Palindromo\Palindromo.cpp(27,14): warning C4834: Descartar el valor de retorno de la función con el atributo [[nodiscard]]
+  Palindromo.vcxproj -> I:\Documentos\Escuela\Programacion\GitHub\TuNombre4rtoEstructuraDeDatosParaVideojuegos\Palindromo\x64\Debug\Palindromo.exe

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\Palindromo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33F527E1-656B-4BA8-8C77-F9DC5C29B34E}|Palindromo\\Palindromo.vcxproj|I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\Palindromo\\Palindromo\\Palindromo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33F527E1-656B-4BA8-8C77-F9DC5C29B34E}|Palindromo\\Palindromo.vcxproj|solutionrelative:Palindromo\\Palindromo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Palindromo.cpp",
+              "DocumentMoniker": "I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\Palindromo\\Palindromo\\Palindromo.cpp",
+              "RelativeDocumentMoniker": "Palindromo\\Palindromo.cpp",
+              "ToolTip": "I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\Palindromo\\Palindromo\\Palindromo.cpp",
+              "RelativeToolTip": "Palindromo\\Palindromo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T05:45:43.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
