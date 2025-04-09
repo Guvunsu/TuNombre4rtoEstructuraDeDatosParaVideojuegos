@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alumno-PC 01\\source\\repos\\mapaImprimir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF584624-D585-42ED-9012-5A86D8DCBD86}|mapaImprimir\\mapaImprimir.vcxproj|C:\\Users\\Alumno-PC 01\\source\\repos\\mapaImprimir\\mapaImprimir\\mapaImprimir.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF584624-D585-42ED-9012-5A86D8DCBD86}|mapaImprimir\\mapaImprimir.vcxproj|solutionrelative:mapaImprimir\\mapaImprimir.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF584624-D585-42ED-9012-5A86D8DCBD86}|mapaImprimir\\mapaImprimir.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.40.33807\\INCLUDE\\DEQUE||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "deque",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\deque",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\deque",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\deque",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\deque",
+              "ViewState": "AQIAAGIEAAAAAAAAAAAvwFcEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-26T21:30:55.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mapaImprimir.cpp",
+              "DocumentMoniker": "C:\\Users\\Alumno-PC 01\\source\\repos\\mapaImprimir\\mapaImprimir\\mapaImprimir.cpp",
+              "RelativeDocumentMoniker": "mapaImprimir\\mapaImprimir.cpp",
+              "ToolTip": "C:\\Users\\Alumno-PC 01\\source\\repos\\mapaImprimir\\mapaImprimir\\mapaImprimir.cpp",
+              "RelativeToolTip": "mapaImprimir\\mapaImprimir.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T20:42:40.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

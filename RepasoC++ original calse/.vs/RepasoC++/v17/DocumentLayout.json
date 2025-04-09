@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alumno-PC 01\\source\\repos\\RepasoC\u002B\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF2D0C9-B22B-4F78-A985-73998F48C54F}|RepasoC\u002B\u002B\\RepasoC\u002B\u002B.vcxproj|C:\\Users\\Alumno-PC 01\\source\\repos\\RepasoC\u002B\u002B\\RepasoC\u002B\u002B\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BDF2D0C9-B22B-4F78-A985-73998F48C54F}|RepasoC\u002B\u002B\\RepasoC\u002B\u002B.vcxproj|solutionrelative:RepasoC\u002B\u002B\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Alumno-PC 01\\source\\repos\\RepasoC\u002B\u002B\\RepasoC\u002B\u002B\\Main.cpp",
+              "RelativeDocumentMoniker": "RepasoC\u002B\u002B\\Main.cpp",
+              "ToolTip": "C:\\Users\\Alumno-PC 01\\source\\repos\\RepasoC\u002B\u002B\\RepasoC\u002B\u002B\\Main.cpp",
+              "RelativeToolTip": "RepasoC\u002B\u002B\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-05T20:40:54.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
