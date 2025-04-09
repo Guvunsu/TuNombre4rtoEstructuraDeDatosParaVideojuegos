@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\ChatGPT examen selectionsort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87F11C81-C640-41D1-A598-92CE5515643E}|ChatGPT examen selectionsort\\ChatGPT examen selectionsort.vcxproj|I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\ChatGPT examen selectionsort\\ChatGPT examen selectionsort\\ChatGPT examen selectionsort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87F11C81-C640-41D1-A598-92CE5515643E}|ChatGPT examen selectionsort\\ChatGPT examen selectionsort.vcxproj|solutionrelative:ChatGPT examen selectionsort\\ChatGPT examen selectionsort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatGPT examen selectionsort.cpp",
+              "DocumentMoniker": "I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\ChatGPT examen selectionsort\\ChatGPT examen selectionsort\\ChatGPT examen selectionsort.cpp",
+              "RelativeDocumentMoniker": "ChatGPT examen selectionsort\\ChatGPT examen selectionsort.cpp",
+              "ToolTip": "I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\ChatGPT examen selectionsort\\ChatGPT examen selectionsort\\ChatGPT examen selectionsort.cpp",
+              "RelativeToolTip": "ChatGPT examen selectionsort\\ChatGPT examen selectionsort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-09T10:08:13.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

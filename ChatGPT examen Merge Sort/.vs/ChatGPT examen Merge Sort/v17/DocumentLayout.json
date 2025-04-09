@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\ChatGPT examen Merge Sort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9149D1-2D74-46A1-931D-4DD726368C28}|ChatGPT examen Merge Sort\\ChatGPT examen Merge Sort.vcxproj|I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\ChatGPT examen Merge Sort\\ChatGPT examen Merge Sort\\ChatGPT examen Merge Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF9149D1-2D74-46A1-931D-4DD726368C28}|ChatGPT examen Merge Sort\\ChatGPT examen Merge Sort.vcxproj|solutionrelative:ChatGPT examen Merge Sort\\ChatGPT examen Merge Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatGPT examen Merge Sort.cpp",
+              "DocumentMoniker": "I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\ChatGPT examen Merge Sort\\ChatGPT examen Merge Sort\\ChatGPT examen Merge Sort.cpp",
+              "RelativeDocumentMoniker": "ChatGPT examen Merge Sort\\ChatGPT examen Merge Sort.cpp",
+              "ToolTip": "I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\ChatGPT examen Merge Sort\\ChatGPT examen Merge Sort\\ChatGPT examen Merge Sort.cpp",
+              "RelativeToolTip": "ChatGPT examen Merge Sort\\ChatGPT examen Merge Sort.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-09T10:51:52.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
