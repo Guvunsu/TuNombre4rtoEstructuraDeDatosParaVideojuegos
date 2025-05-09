@@ -1,0 +1,8 @@
+﻿  DFS Clase.cpp
+I:\Documentos\Escuela\Programacion\GitHub\TuNombre4rtoEstructuraDeDatosParaVideojuegos\DFS Clase\DFS Clase\DFS Clase.cpp(16,8): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+I:\Documentos\Escuela\Programacion\GitHub\TuNombre4rtoEstructuraDeDatosParaVideojuegos\DFS Clase\DFS Clase\DFS Clase.cpp(20,3): error C2660: 'dfs_rec': la función no acepta 4 argumentos
+      I:\Documentos\Escuela\Programacion\GitHub\TuNombre4rtoEstructuraDeDatosParaVideojuegos\DFS Clase\DFS Clase\DFS Clase.cpp(15,10):
+      vea la declaración de 'dfs_rec'
+      I:\Documentos\Escuela\Programacion\GitHub\TuNombre4rtoEstructuraDeDatosParaVideojuegos\DFS Clase\DFS Clase\DFS Clase.cpp(20,3):
+      al hacer coincidir la lista de argumentos '(const Graph, int, std::vector<bool,std::allocator<bool>>, std::list<int,std::allocator<int>>)'
+  

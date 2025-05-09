@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\DFS Clase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14E975D6-D04C-4D87-B37A-F2A01C93AE42}|DFS Clase\\DFS Clase.vcxproj|I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\DFS Clase\\DFS Clase\\DFS Clase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14E975D6-D04C-4D87-B37A-F2A01C93AE42}|DFS Clase\\DFS Clase.vcxproj|solutionrelative:DFS Clase\\DFS Clase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DFS Clase.cpp",
+              "DocumentMoniker": "I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\DFS Clase\\DFS Clase\\DFS Clase.cpp",
+              "RelativeDocumentMoniker": "DFS Clase\\DFS Clase.cpp",
+              "ToolTip": "I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\DFS Clase\\DFS Clase\\DFS Clase.cpp",
+              "RelativeToolTip": "DFS Clase\\DFS Clase.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-09T09:45:21.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
