@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\Grafos,VectorDeVectores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{830143DB-1779-47A8-B38F-4A53879936A7}|Grafos,VectorDeVectores\\Grafos,VectorDeVectores.vcxproj|I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\Grafos,VectorDeVectores\\Grafos,VectorDeVectores\\Grafos,VectorDeVectores.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{830143DB-1779-47A8-B38F-4A53879936A7}|Grafos,VectorDeVectores\\Grafos,VectorDeVectores.vcxproj|solutionrelative:Grafos,VectorDeVectores\\Grafos,VectorDeVectores.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Grafos,VectorDeVectores.cpp",
+              "DocumentMoniker": "I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\Grafos,VectorDeVectores\\Grafos,VectorDeVectores\\Grafos,VectorDeVectores.cpp",
+              "RelativeDocumentMoniker": "Grafos,VectorDeVectores\\Grafos,VectorDeVectores.cpp",
+              "ToolTip": "I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\Grafos,VectorDeVectores\\Grafos,VectorDeVectores\\Grafos,VectorDeVectores.cpp",
+              "RelativeToolTip": "Grafos,VectorDeVectores\\Grafos,VectorDeVectores.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-09T09:32:16.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
