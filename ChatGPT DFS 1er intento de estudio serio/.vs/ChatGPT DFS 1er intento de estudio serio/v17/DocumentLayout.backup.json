@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\ChatGPT DFS 1er intento de estudio serio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60FA2F11-296B-428A-99D9-75121DB53625}|ChatGPT DFS 1er intento de estudio serio\\ChatGPT DFS 1er intento de estudio serio.vcxproj|I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\ChatGPT DFS 1er intento de estudio serio\\ChatGPT DFS 1er intento de estudio serio\\ChatGPT DFS 1er intento de estudio serio.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60FA2F11-296B-428A-99D9-75121DB53625}|ChatGPT DFS 1er intento de estudio serio\\ChatGPT DFS 1er intento de estudio serio.vcxproj|solutionrelative:ChatGPT DFS 1er intento de estudio serio\\ChatGPT DFS 1er intento de estudio serio.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatGPT DFS 1er intento de estudio serio.cpp",
+              "DocumentMoniker": "I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\ChatGPT DFS 1er intento de estudio serio\\ChatGPT DFS 1er intento de estudio serio\\ChatGPT DFS 1er intento de estudio serio.cpp",
+              "RelativeDocumentMoniker": "ChatGPT DFS 1er intento de estudio serio\\ChatGPT DFS 1er intento de estudio serio.cpp",
+              "ToolTip": "I:\\Documentos\\Escuela\\Programacion\\GitHub\\TuNombre4rtoEstructuraDeDatosParaVideojuegos\\ChatGPT DFS 1er intento de estudio serio\\ChatGPT DFS 1er intento de estudio serio\\ChatGPT DFS 1er intento de estudio serio.cpp",
+              "RelativeToolTip": "ChatGPT DFS 1er intento de estudio serio\\ChatGPT DFS 1er intento de estudio serio.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-10T16:11:23.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
